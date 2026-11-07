@@ -6,7 +6,7 @@
   "author": "Projeto pessoal",
   "action": {
     "title": "RPGpédia",
-    "icon": "icon.svg",
+    "icon": "https://cartografool.github.io/RPGpedia-Owlbear/icon.svg",
     "popover": "https://rpgpedia.com/colecoes",
     "width": 1100,
     "height": 750

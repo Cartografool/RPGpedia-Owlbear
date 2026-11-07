@@ -1,0 +1,14 @@
+{
+  "name": "RPGpédia",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Abre as coleções da RPGpédia dentro do Owlbear Rodeo.",
+  "author": "Projeto pessoal",
+  "action": {
+    "title": "RPGpédia",
+    "icon": "icon.svg",
+    "popover": "https://rpgpedia.com/colecoes",
+    "width": 1100,
+    "height": 750
+  }
+}
